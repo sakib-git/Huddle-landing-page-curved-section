@@ -1,5 +1,3 @@
-@import url("https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css");
-
 @font-face {
   font-family: "poppins";
   src: url(fonts/poppins-v22-latin-700.woff2);
@@ -48,6 +46,8 @@ header {
   padding: 1rem;
   padding-block: 4rem;
   font-family: "open-sans";
+  max-inline-size: 1150px;
+  margin-inline: auto;
 }
 
 header img {
